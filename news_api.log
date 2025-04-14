@@ -312,3 +312,83 @@
 2025-04-08 11:17:35,930 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 11:17:35] "GET /api/news?category=travel&limit=9&offset=0 HTTP/1.1" 200 -
 2025-04-08 11:17:36,168 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 11:17:36] "GET /api/status HTTP/1.1" 200 -
 2025-04-08 11:24:04,306 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 11:24:04] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 11:36:29,268 - __main__ - INFO - Running scheduled news update
+2025-04-08 11:36:29,310 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.10:5000
+2025-04-08 11:36:29,310 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 11:36:29,312 - werkzeug - INFO -  * Restarting with stat
+2025-04-08 11:36:30,160 - __main__ - INFO - Running scheduled news update
+2025-04-08 11:36:30,183 - werkzeug - WARNING -  * Debugger is active!
+2025-04-08 11:36:30,186 - werkzeug - INFO -  * Debugger PIN: 783-044-093
+2025-04-08 11:38:47,330 - __main__ - INFO - Scheduled update completed. Added 2 new articles.
+2025-04-08 11:38:47,359 - __main__ - INFO - Scheduled update completed. Added 0 new articles.
+2025-04-08 11:38:57,018 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 11:38:57] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 11:58:10,309 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 11:58:10] "GET /api/status HTTP/1.1" 200 -
+2025-04-08 11:58:10,550 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 11:58:10] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 12:05:51,560 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 12:05:51] "GET /api/status HTTP/1.1" 200 -
+2025-04-08 12:05:51,835 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 12:05:51] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 12:07:00,577 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 12:07:00] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 12:07:19,352 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 12:07:19] "GET /api/news?category=technology&limit=9&offset=0 HTTP/1.1" 200 -
+2025-04-08 12:07:19,573 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 12:07:19] "GET /api/status HTTP/1.1" 200 -
+2025-04-08 12:07:25,959 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 12:07:25] "GET /api/news?category=technology&limit=9&offset=9 HTTP/1.1" 200 -
+2025-04-08 12:07:26,192 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 12:07:26] "GET /api/status HTTP/1.1" 200 -
+2025-04-08 12:07:29,243 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 12:07:29] "GET /api/news?category=travel&limit=9&offset=0 HTTP/1.1" 200 -
+2025-04-08 12:07:29,467 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 12:07:29] "GET /api/status HTTP/1.1" 200 -
+2025-04-08 12:10:35,493 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 12:10:35] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 12:12:54,588 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 12:12:54] "GET /api/status HTTP/1.1" 200 -
+2025-04-08 12:12:54,820 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 12:12:54] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 12:13:19,099 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 12:13:19] "GET /api/status HTTP/1.1" 200 -
+2025-04-08 12:13:19,347 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 12:13:19] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 13:30:13,530 - __main__ - INFO - Running scheduled news update
+2025-04-08 13:30:13,791 - __main__ - INFO - Scheduled update completed. Added 0 new articles.
+2025-04-08 13:44:57,741 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 13:44:57] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 13:45:10,324 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 13:45:10] "GET /api/news?category=technology&limit=9&offset=0 HTTP/1.1" 200 -
+2025-04-08 13:45:10,568 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 13:45:10] "GET /api/status HTTP/1.1" 200 -
+2025-04-08 13:45:14,799 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 13:45:14] "GET /api/news?category=sports&limit=9&offset=0 HTTP/1.1" 200 -
+2025-04-08 13:45:15,049 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 13:45:15] "GET /api/status HTTP/1.1" 200 -
+2025-04-08 13:46:06,904 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 13:46:06] "GET /api/news?category=travel&limit=9&offset=0 HTTP/1.1" 200 -
+2025-04-08 13:46:07,141 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 13:46:07] "GET /api/status HTTP/1.1" 200 -
+2025-04-08 14:05:26,555 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:05:26] "GET /api/status HTTP/1.1" 200 -
+2025-04-08 14:05:26,802 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:05:26] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 14:05:38,288 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:05:38] "GET /api/status HTTP/1.1" 200 -
+2025-04-08 14:05:38,527 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:05:38] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 14:06:07,401 - __main__ - INFO - Running scheduled news update
+2025-04-08 14:06:18,613 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:06:18] "GET /api/status HTTP/1.1" 200 -
+2025-04-08 14:06:18,864 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:06:18] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 14:09:34,975 - __main__ - INFO - Scheduled update completed. Added 20 new articles.
+2025-04-08 14:10:58,318 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:10:58] "GET /api/status HTTP/1.1" 200 -
+2025-04-08 14:10:58,562 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:10:58] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 14:20:59,263 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:20:59] "GET /api/status HTTP/1.1" 200 -
+2025-04-08 14:20:59,501 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:20:59] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 14:21:10,550 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:21:10] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 14:21:27,777 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:21:27] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 14:21:32,577 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:21:32] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 14:23:51,802 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:23:51] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 14:23:52,054 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:23:52] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 14:24:38,388 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:24:38] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 14:52:21,205 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:52:21] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 14:52:25,119 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:52:25] "GET /api/news?category=education&limit=9&offset=0 HTTP/1.1" 200 -
+2025-04-08 14:52:25,347 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:52:25] "GET /api/status HTTP/1.1" 200 -
+2025-04-08 14:54:31,975 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:54:31] "GET /api/news?category=travel&limit=9&offset=0 HTTP/1.1" 200 -
+2025-04-08 14:54:32,209 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:54:32] "GET /api/status HTTP/1.1" 200 -
+2025-04-08 14:54:42,843 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:54:42] "GET /api/status HTTP/1.1" 200 -
+2025-04-08 14:54:43,080 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:54:43] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 14:57:23,820 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:57:23] "GET /api/status HTTP/1.1" 200 -
+2025-04-08 14:57:24,058 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:57:24] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 14:58:10,748 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:58:10] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-08 14:58:26,879 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2025 14:58:26] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
+2025-04-10 14:58:11,610 - __main__ - INFO - Running scheduled news update
+2025-04-10 14:58:11,781 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.10:5000
+2025-04-10 14:58:11,782 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 14:58:11,785 - werkzeug - INFO -  * Restarting with stat
+2025-04-10 14:58:17,855 - __main__ - INFO - Running scheduled news update
+2025-04-10 14:58:17,998 - werkzeug - WARNING -  * Debugger is active!
+2025-04-10 14:58:18,038 - werkzeug - INFO -  * Debugger PIN: 783-044-093
+2025-04-10 14:58:18,305 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:58:18] "GET /api/status HTTP/1.1" 200 -
+2025-04-10 14:58:18,307 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:58:18] "GET /api/status HTTP/1.1" 200 -
+2025-04-10 14:58:18,564 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 14:58:18] "GET /api/news?limit=6&offset=0 HTTP/1.1" 200 -
